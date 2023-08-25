@@ -1,5 +1,5 @@
 # BadUSB
-# creating a badUSB attack using zero dollars 
+# Creating a badUSB attack using zero dollars 
 
 badusb attack using mimikatz software
 
